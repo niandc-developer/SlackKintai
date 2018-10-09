@@ -23,7 +23,7 @@ IBM Cloud ワークスペースで Db2 Warehouse サービスを追加し、上�
 例）https://slackkintai.mybluemix.net/button-callback
 ```
 
-(5) Node-REDフローエディタに戻り、「bot_access_token設定、アプリURL設定」ノードのプロパティを開き、SlackApp の「Bot User OAuth Access Token」の値、アプリURLを設定し、「デプロイ」ボタンを押します。
+(5) Node-REDフローエディタに戻り、「bot_access_token設定」ノードのプロパティを開き、SlackApp の「Bot User OAuth Access Token」の値を設定し、「デプロイ」ボタンを押します。
 
 ### SlackKintaiユーザーの設定
 (1) 勤怠情報を投稿するチャンネルを作成します。既存の general や random で良ければ作成不要ですが、チャンネル毎に集計表示されますのでグループ毎にチャンネルを作成することをお勧めします。
